@@ -11,7 +11,7 @@
 Science and Innovation</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Earth-AI-Papers/blob/master/er(3).pdf" style="text-decoration:none;">Fusing Earth Observation, Volunteered Geographic Information and Artificial Intelligence for improved Land Management</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Earth-AI-Papers/blob/master/er(4).pdf" style="text-decoration:none;">Do we Need Hundreds of Classiers to Solve Real World Classification Problems?</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Earth-AI-Papers/blob/master/er(4).pdf" style="text-decoration:none;">Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Earth-AI-Papers/blob/master/er(5).pdf" style="text-decoration:none;">How to Achieve AI Maturity and
 Why It Matters</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Earth-AI-Papers/blob/master/er(6).pdf" style="text-decoration:none;">Artificial Intelligence Data
